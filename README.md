@@ -1,2 +1,1 @@
-# Frequent-utility-itemset-mining
- two novel algorithms named FUIMTWU-Tree (Frequent-utility Itemset Mining based on TWU-Tree) and FUIMTF-Tree (Frequent-utility Itemset Mining based on TF-Tree) are presented based on the integration of IHUP and HUI-Miner. 
+Two novel algorithms named FUIMTWU-Tree (Frequent-utility Itemset Mining based on TWU-Tree) and FUIMTF-Tree (Frequent-utility Itemset Mining based on TF-Tree) are presented based on the integration of IHUP and HUI-Miner. The TWU-tree and TF-Tree structures are utilized to avoid the unnecessary utility-list construction of itemsets that do not appear in a transaction dataset.
